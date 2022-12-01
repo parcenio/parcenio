@@ -8,7 +8,8 @@ Diversas áreas onde atuei durante meu caminho profissional me prepararam pra en
 
 *   🌍  I'm based in Alagoinhas - BA
 *   ✉️  You can contact me at [pauloarcenio.cs@gmail.com](mailto:pauloarcenio.cs@gmail.com)
-*   🧠  I'm learning Java and Javascript<a href="https://www.github.com/parcenio" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Java and Javascript
+<a href="https://www.github.com/parcenio" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/parcenio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -21,12 +22,4 @@ Diversas áreas onde atuei durante meu caminho profissional me prepararam pra en
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/parcenio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/paulo-arcenio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/parcenio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parcenio&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  
