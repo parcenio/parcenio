@@ -9,6 +9,7 @@ Diversas áreas onde atuei durante meu caminho profissional me prepararam pra en
 *   🌍  I'm based in Alagoinhas - BA
 *   ✉️  You can contact me at [pauloarcenio.cs@gmail.com](mailto:pauloarcenio.cs@gmail.com)
 *   🧠  I'm learning Java and Javascript
+<br>
 <a href="https://www.github.com/parcenio" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/parcenio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
