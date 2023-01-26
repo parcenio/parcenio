@@ -1,14 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paulo Arcenio
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Me chamo Paulo Arcenio
 =====================================================================================================================================
 
-Developer
+Desenvolvedor Fullstack Júnior
 ---------
+Entusiasta e profissional de tecnologia desde 2018, tendo como missão poder contribuir com o mundo da tecnologia, poder absorver muito conhecimento que me permita ajudar a construir algo com valor, possuo conhecimentos adquiridos ao longo da minha trajetória profissional o que me permite ter a visão de um negócio ou situação de vários ângulos me proporcionando uma visão holística, o que me apoia melhor nas decisões, aprendizados que forjaram o profissional que sou tendo como principais valores a integridade, resiliência, uma comunicação assertiva, o trabalho em equipe e resolutor de problemas. Em todas as jornadas sempre busquei ao máximo relacionar com a tecnologia tentando trazer soluções e inovações de modo a ajudar todo o time.
 
-Diversas áreas onde atuei durante meu caminho profissional me prepararam pra enxergar um negócio de vários ângulos me proporcionando uma visão mais holística, me forjaram o profissional que sou com integridade, comunicação assertiva, trabalhar em equipe, focado na solução. Nessa jornada sempre busquei me relacionar o máximo com a tecnologia tentando trazer soluções e inovações. Tecnologias que sempre venho estudando e evoluindo.
-
-*   🌍  I'm based in Alagoinhas - BA
-*   ✉️  You can contact me at [pauloarcenio.cs@gmail.com](mailto:pauloarcenio.cs@gmail.com)
-*   🧠  I'm learning Java and Javascript
+*   🌍  Atualmente em Alagoinhas - BA
+*   ✉️  Dá um salve no email: [pauloarcenio.cs@gmail.com](mailto:pauloarcenio.cs@gmail.com) ou [Linkedin](https://www.linkedin.com/in/paulo-arcenio)
+*   🧠  Atualmente melhorando os conhecimentos de Back-end Java e aprendendo mais sobre Angular.
 <br>
 <a href="https://www.github.com/parcenio" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/parcenio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
