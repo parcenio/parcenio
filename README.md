@@ -2,8 +2,7 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 =====================================================================================================================================
 
 Desenvolvedor Back-end Júnior
----------
-Entusiasta e profissional de tecnologia desde 2018, tendo como missão poder contribuir com o mundo da tecnologia, poder absorver muito conhecimento que me permita ajudar a construir algo com valor, possuo conhecimentos adquiridos ao longo da minha trajetória profissional o que me permite ter a visão de um negócio ou situação de vários ângulos me proporcionando uma visão holística, o que me apoia melhor nas decisões, aprendizados que forjaram o profissional que sou tendo como principais valores a integridade, resiliência, uma comunicação assertiva, o trabalho em equipe e resolutor de problemas. Em todas as jornadas sempre busquei ao máximo relacionar com a tecnologia tentando trazer soluções e inovações de modo a ajudar todo o time.
+---------------------------------
 
 *   🌍  Atualmente em Alagoinhas - BA
 *   ✉️  Dá um salve no email: [pauloarcenio.cs@gmail.com](mailto:pauloarcenio.cs@gmail.com) ou [Linkedin](https://www.linkedin.com/in/paulo-arcenio)
@@ -18,8 +17,6 @@ Entusiasta e profissional de tecnologia desde 2018, tendo como missão poder con
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
   
